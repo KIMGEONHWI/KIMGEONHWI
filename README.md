@@ -2,9 +2,9 @@
 
 
 ## 🚀 Activities
-- SOPT 34th Web Frontend Part OB (2024.09 ~ 2025.02)
+- SOPT 35th Web Frontend Part OB (2024.09 ~ 2025.02)
 
-- SOPT 33th Web Frontend Part YB (2024.03 ~ 2024.07)
+- SOPT 34th Web Frontend Part YB (2024.03 ~ 2024.07)
 
 - Likelion Univ SSU Front End Team (2024.03 ~ 2024.12)
 
