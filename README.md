@@ -11,6 +11,7 @@
 
 ## 💡 Contributions
 - https://github.com/toss/overlay-kit/pull/143
+- https://github.com/toss/react-simplikit
 
 ## 📦 ETC
 [![rankit-badge](https://badge.rankit.run/badge?name=KIMGEONHWI)](https://www.rankit.run)
