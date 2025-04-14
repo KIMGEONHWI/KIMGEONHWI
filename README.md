@@ -10,8 +10,8 @@
 
 
 ## 💡 Contributions
-- https://github.com/toss/overlay-kit/pull/143
-- https://github.com/toss/react-simplikit
+- [toss/overlay-kit](https://github.com/toss/overlay-kit/pulls?q=author%3AKIMGEONHWI+is%3Aclosed+)
+- [toss/react-simplikit](https://github.com/toss/react-simplikit/pulls?q=author%3AKIMGEONHWI+is%3Aclosed+)
 
 ## 📦 ETC
 [![rankit-badge](https://badge.rankit.run/badge?name=KIMGEONHWI)](https://www.rankit.run)
