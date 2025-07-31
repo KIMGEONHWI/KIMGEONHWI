@@ -1,5 +1,8 @@
 ### 👋 Hi, I'm Geonhwi Kim
 
+## 🖥️ Experience
+뱅크샐러드 Frontend Developer Intern (2025.07 ~ current)
+
 
 ## 🚀 Activities
 - SOPT 35th Web Frontend Part OB (2024.09 ~ 2025.02)
