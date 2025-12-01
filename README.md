@@ -1,7 +1,8 @@
 ### 👋 Hi, I'm Geonhwi Kim
 
 ## 🖥️ Experience
-- 뱅크샐러드 Frontend Developer Intern (2025.07 ~ current)
+- 뱅크샐러드 Frontend Developer Intern (2025.07 ~ 2025.10)
+- 마이다스 Frontend Developer Intern (2025.12 ~ current)
 
 
 ## 🚀 Activities
