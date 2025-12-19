@@ -2,7 +2,7 @@
 
 ## 🖥️ Experience
 - 뱅크샐러드 Frontend Developer Intern (2025.07 ~ 2025.10)
-- 마이다스 IT Frontend Developer Intern (2025.12 ~ current)
+- 마이다스아이티 Frontend Developer Intern (2025.12 ~ current)
 
 
 ## 🚀 Activities
