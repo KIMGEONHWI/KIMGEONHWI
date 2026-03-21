@@ -22,6 +22,5 @@
 
 ## 📦 ETC
 [![rankit-badge](https://badge.rankit.run/badge?name=KIMGEONHWI)](https://www.rankit.run)
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/geonhwi1014?theme=light&posts=3)
 
 
